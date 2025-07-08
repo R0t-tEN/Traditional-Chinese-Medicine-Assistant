@@ -1,6 +1,8 @@
 我用夸克网盘分享了「t_out_model.pth」，点击链接即可保存。打开「夸克APP」，无需下载在线播放视频，畅享原画5倍速，支持电视投屏。
 链接：https://pan.quark.cn/s/6eae371e3c82
 提取码：gd2F
+数据来源：https://aistudio.baidu.com/datasetdetail/246739
+分享者：梦泽ovo
 
 以上为模型训练素材和用一个用素材训练了25轮的pth文件
 
