@@ -1,0 +1,12 @@
+2025-07-08 20:31:51 - root - INFO - 日志系统已配置完成，将同时输出到控制台和文件 'herb_recognizer.log'
+2025-07-08 20:31:51 - root - INFO - 成功从 class_names.json 加载 163 个类别。
+2025-07-08 20:31:51 - root - INFO - 正在从't_out_model.pth'加载模型...
+2025-07-08 20:31:51 - root - ERROR - 找不到模型文件 't_out_model.pth'。请先运行 train.py 训练并保存模型。
+2025-07-08 20:31:51 - root - CRITICAL - 由于模型加载失败，Gradio应用无法启动。请检查日志文件获取详细错误信息。
+2025-07-08 20:45:08 - root - INFO - 日志系统已配置完成，将同时输出到控制台和文件 'herb_recognizer.log'
+2025-07-08 20:45:08 - root - INFO - 成功从 class_names.json 加载 163 个类别。
+2025-07-08 20:45:08 - root - INFO - 正在从't_out_model.pth'加载模型...
+2025-07-08 20:45:08 - root - INFO - 模型加载成功！
+2025-07-08 20:45:08 - root - INFO - 正在启动Gradio Web界面...
+2025-07-08 20:46:02 - root - INFO - 识别完成: 紫草 (23.11%)
+2025-07-08 20:46:13 - root - INFO - 识别完成: 天麻 (99.49%)
